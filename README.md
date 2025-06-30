@@ -13,7 +13,7 @@ A simple desktop journaling application built in Java that allows users to write
 
 ---
 
-### Installation Requirements
+## Installation Requirements
 
 - Java Development Kit (JDK 8 or higher)
 - A Java IDE (e.g., IntelliJ, Eclipse) or terminal access
